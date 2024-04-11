@@ -1,0 +1,11 @@
+C:\dev\WebPage\Webpage.Domain\bin\Debug\net8.0\Webpage.Domain.deps.json
+C:\dev\WebPage\Webpage.Domain\bin\Debug\net8.0\Webpage.Domain.dll
+C:\dev\WebPage\Webpage.Domain\bin\Debug\net8.0\Webpage.Domain.pdb
+C:\dev\WebPage\Webpage.Domain\obj\Debug\net8.0\Webpage.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\WebPage\Webpage.Domain\obj\Debug\net8.0\Webpage.Domain.AssemblyInfoInputs.cache
+C:\dev\WebPage\Webpage.Domain\obj\Debug\net8.0\Webpage.Domain.AssemblyInfo.cs
+C:\dev\WebPage\Webpage.Domain\obj\Debug\net8.0\Webpage.Domain.csproj.CoreCompileInputs.cache
+C:\dev\WebPage\Webpage.Domain\obj\Debug\net8.0\Webpage.Domain.dll
+C:\dev\WebPage\Webpage.Domain\obj\Debug\net8.0\refint\Webpage.Domain.dll
+C:\dev\WebPage\Webpage.Domain\obj\Debug\net8.0\Webpage.Domain.pdb
+C:\dev\WebPage\Webpage.Domain\obj\Debug\net8.0\ref\Webpage.Domain.dll

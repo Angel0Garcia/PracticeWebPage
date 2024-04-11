@@ -1,0 +1,17 @@
+C:\dev\WebPage\WebPage.Persistence\bin\Debug\net8.0\WebPage.Persistence.deps.json
+C:\dev\WebPage\WebPage.Persistence\bin\Debug\net8.0\WebPage.Persistence.runtimeconfig.json
+C:\dev\WebPage\WebPage.Persistence\bin\Debug\net8.0\WebPage.Persistence.dll
+C:\dev\WebPage\WebPage.Persistence\bin\Debug\net8.0\WebPage.Persistence.pdb
+C:\dev\WebPage\WebPage.Persistence\bin\Debug\net8.0\Webpage.Domain.dll
+C:\dev\WebPage\WebPage.Persistence\bin\Debug\net8.0\Webpage.Domain.pdb
+C:\dev\WebPage\WebPage.Persistence\obj\Debug\net8.0\WebPage.Persistence.csproj.AssemblyReference.cache
+C:\dev\WebPage\WebPage.Persistence\obj\Debug\net8.0\WebPage.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\WebPage\WebPage.Persistence\obj\Debug\net8.0\WebPage.Persistence.AssemblyInfoInputs.cache
+C:\dev\WebPage\WebPage.Persistence\obj\Debug\net8.0\WebPage.Persistence.AssemblyInfo.cs
+C:\dev\WebPage\WebPage.Persistence\obj\Debug\net8.0\WebPage.Persistence.csproj.CoreCompileInputs.cache
+C:\dev\WebPage\WebPage.Persistence\obj\Debug\net8.0\WebPage..CECAA557.Up2Date
+C:\dev\WebPage\WebPage.Persistence\obj\Debug\net8.0\WebPage.Persistence.dll
+C:\dev\WebPage\WebPage.Persistence\obj\Debug\net8.0\refint\WebPage.Persistence.dll
+C:\dev\WebPage\WebPage.Persistence\obj\Debug\net8.0\WebPage.Persistence.pdb
+C:\dev\WebPage\WebPage.Persistence\obj\Debug\net8.0\WebPage.Persistence.genruntimeconfig.cache
+C:\dev\WebPage\WebPage.Persistence\obj\Debug\net8.0\ref\WebPage.Persistence.dll
